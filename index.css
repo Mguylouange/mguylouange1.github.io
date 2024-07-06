@@ -284,5 +284,12 @@ form input, form textarea{
             width: 10%;
             max-width: 35px;
         }
+        header img{
+            height: 30px;
+            display: block;
+            margin-left: 140px;
+        }
+        nav{
+            display: none;
+        }
     }
-    
